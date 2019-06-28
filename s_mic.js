@@ -16,7 +16,7 @@ function preload() {
     imgBottle = loadImage('bottle.png');
 }
 function setup() {
-    createCanvas(windowWidth - 500, windowHeight);
+    createCanvas(windowWidth - 600, windowHeight);
     
     background(0);
     noFill();
@@ -166,10 +166,10 @@ function displayMessage(){
    
         fill(67,101,156);
           
-        textSize(42);
-        text('Nature is a miracle that we all depend on.',200,300)
+        textSize(37);
+        text('Nature is a miracle that we all depend on.',120,300)
         fill(54,117,75);
-        textSize(30);
-        text('So try to avoid using plastics or for the beginnig send them for recycling.', 80, 350)
+        textSize(26);
+        text('So try to avoid using plastics or for the beginnig send them for recycling.', 50, 350)
 }
 }
