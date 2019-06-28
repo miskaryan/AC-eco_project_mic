@@ -170,6 +170,6 @@ function displayMessage(){
         text('Nature is a miracle that we all depend on.',120,300)
         fill(54,117,75);
         textSize(26);
-        text('So try to avoid using plastics or for the beginnig send them for recycling.', 50, 350)
+        text('So try to avoid using plastics or for the beginning send them for recycling.', 50, 350)
 }
 }
